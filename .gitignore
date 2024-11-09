@@ -8,7 +8,6 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-.vevn
 build/
 develop-eggs/
 dist/
@@ -124,6 +123,7 @@ celerybeat.pid
 
 # Environments
 .env
+.vevn
 .venv
 env/
 venv/
