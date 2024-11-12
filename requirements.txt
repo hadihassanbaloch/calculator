@@ -1,4 +1,5 @@
 numpy
 pandas
 setuptools
+streamlit
 -e .
